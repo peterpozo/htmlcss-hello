@@ -1,8 +1,18 @@
+body{background-size: cover;
+    background-color: black;
+}
+
 h1{font-size: 100px;
     text-align: center;
     font-family: 'Gumball', sans-serif;
     color: white;
     background-color: black;
-    background-size: cover;
-                                                                                          
+    margin: auto;                                                                                         
+}
+
+p{font-size: 30px;
+    background-color: black;
+    color: grey;
+    margin: auto;
+    font-family: 'Gumball', sans-serif;
 }
